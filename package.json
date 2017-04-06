@@ -1,0 +1,10 @@
+{
+  "name": "clock-d3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "GimYoungPhil <youngphil.gim@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "python -m SimpleHTTPServer 8000"
+  }
+}
